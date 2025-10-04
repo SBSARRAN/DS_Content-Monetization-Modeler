@@ -73,12 +73,11 @@ Streamlit App – Interactive ad revenue prediction
 Insights – Identify features that drive revenue
 
 **Model Performance**
-Model	R² Score	RMSE	MAE
-Linear Regression	0.9482	14.09	11.23
-Random Forest	0.9480	14.12	11.34
-Gradient Boosting	0.9479	14.13	11.35
-Ridge	0.9482	14.09	11.21
-Lasso	0.9476	14.18	11.45
+Linear Regression : mse = 198.5889 , r2 = 0.9482 , rmse = 14.0922
+Random Forest : mse = 199.3422 , r2 = 0.9480 , rmse = 14.1189
+Gradient Boosting : mse = 199.7165 , r2 = 0.9479 , rmse = 14.1321
+Ridge : mse = 198.5849 , r2 = 0.9482 , rmse = 14.0920
+Lasso : mse = 201.0348 , r2 = 0.9476 , rmse = 14.1787
 
 **Best Model**: Ridge Regression
 
