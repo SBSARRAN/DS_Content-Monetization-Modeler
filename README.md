@@ -9,8 +9,7 @@ It also includes a Streamlit web application for interactive predictions and vis
 
 **Skills & Technologies**
 
-Machine Learning & Modeling: Linear Regression, Ridge, Lasso, Random Forest, Gradient Boosting
-
+Machine Learning & Modeling: Linear Regression, Decision Tree Regressor, Random Forest Regressor,GradientBoostingRegressor
 Data Handling & Preprocessing: Pandas, NumPy, Missing Value Handling, Outlier Detection, Categorical Encoding
 
 EDA & Data Visualization: Matplotlib, Seaborn, Feature Insights
@@ -73,13 +72,13 @@ Streamlit App – Interactive ad revenue prediction
 Insights – Identify features that drive revenue
 
 **Model Performance**
-Linear Regression : mse = 198.5889 , r2 = 0.9482 , rmse = 14.0922
-Random Forest : mse = 199.3422 , r2 = 0.9480 , rmse = 14.1189
-Gradient Boosting : mse = 199.7165 , r2 = 0.9479 , rmse = 14.1321
-Ridge : mse = 198.5849 , r2 = 0.9482 , rmse = 14.0920
-Lasso : mse = 201.0348 , r2 = 0.9476 , rmse = 14.1787
+Linear Regression : mse = 181.6875 , r2 = 0.9526 , rmse = 13.4792
+Decision Tree Regressor : mse = 221.5493 , r2 = 0.9422 , rmse = 14.8845
+Random Forest Regressor : mse = 208.9389 , r2 = 0.9455 , rmse = 14.4547
+Gradient Boosting Regressor : mse = 257.0742 , r2 = 0.9329 , rmse = 16.0335
+Best Model: Linear Regression (R² = 0.9526)
 
-**Best Model**: Ridge Regression
+**Best Model**: Linear Regression
 
 
 **Project Deliverables**
